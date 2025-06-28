@@ -6,6 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mehrshad.barati2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehrshad.barati2020" height="30" width="40" /></a>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Creative+Front-End+Developer;React+%2F+Next+%2F+Tailwind+Lover;Design+%2B+Code+%3D+❤️;Open+to+collaboration!+Let's+build+cool+stuff!" />
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
